@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Santiago</h1>
-<h3 align="center">A freelance junior developer</h3>
+<h1 align="center">Santiago Cuevas</h1>
+<h3 align="center">freelance junior developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Santicue14](https://github.com/Santicue14)
 
