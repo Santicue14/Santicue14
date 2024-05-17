@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
-<h3 align="center">A freelancer developer</h3>
+<h3 align="center">A freelance junior developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Santicue14](https://github.com/Santicue14)
 
-- 📫 How to reach me **santiagobcuevas14@gmail.com**
+- 📫 How to contact me **santiagobcuevas14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
