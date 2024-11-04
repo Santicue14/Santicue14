@@ -1,7 +1,10 @@
 <h1 align="center">Santiago Cuevas</h1>
 <h3 align="center">Desarrollador full-stack</h3>
 
-- 👨‍💻 Todos mis proyectos están disponibles en [mi portfolio personal](https://santicue14-portfolio.vercel.app/works)
+
+<a align="center" href="./cv.pdf">
+<p align="center">Currículum</p>
+</a>
 
 
 <p align="center">
@@ -13,6 +16,12 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/santiagocuevas147/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Correo eléctrónico" height="50px" width="50px" />
+</a>
+&nbsp;
+&nbsp;
+&nbsp;
+<a href="https://santicue14-portfolio.vercel.app" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/465900/portfolio.svg" alt="Correo eléctrónico" height="50px" width="50px" />
 </a>
 </p>
 
