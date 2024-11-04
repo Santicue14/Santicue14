@@ -2,19 +2,19 @@
 <h3 align="center">Desarrollador full-stack</h3>
 
 
-<a align="center" target="blank" href="./cv.pdf">
+<a align="center" target="_blank" href="./cv.pdf">
 <p align="center">Currículum</p>
 </a>
 
 
 <p align="center">
-<a href="mailto:santiagobcuevas14@gmail.com" target="blank">
+<a href="mailto:santiagobcuevas14@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Correo eléctrónico" height="50px" width="50px" />
 </a>
 &nbsp;
 &nbsp;
 &nbsp;
-<a href="https://www.linkedin.com/in/santiagocuevas147/" target="blank">
+<a href="https://www.linkedin.com/in/santiagocuevas147/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Correo eléctrónico" height="50px" width="50px" />
 </a>
 &nbsp;
