@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador full-stack</h3>
 
 
-<a align="center" href="./cv.pdf">
+<a align="center" target="blank" href="./cv.pdf">
 <p align="center">Currículum</p>
 </a>
 
