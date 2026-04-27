@@ -1,59 +1,74 @@
-<h1 align="center">Santiago Cuevas</h1>
-<h3 align="center">Desarrollador full-stack</h3>
+<div align="center">
 
+# Santiago Baldini Cuevas
 
-<a align="center" target="_blank" href="./cv.pdf">
-<p align="center">Currículum</p>
-</a>
+**Analista IT · Desarrollador** · *Lic. en Sistemas (en curso)*
 
+Soy **emprendedor y desarrollador de software**: mi primer proyecto fue **Tecnoo SC** (soporte técnico a equipos) y hoy el foco está en productos y servicios digitales. En **Quick Dev Solutions** y **MetSys** llevo el **ciclo de vida del software** de punta a punta: alcance, arquitectura, desarrollo y despliegue (web, mobile, **WordPress**, cloud en **AWS**). En paralelo soy **Analista Funcional** en **Fintech** en [Loan Software](https://loansoftware.net/) — requerimientos, flujos, documentación de APIs y alineación con **dev** y **QA**.
 
-<p align="center">
-<a href="mailto:santiagobcuevas14@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Correo eléctrónico" height="50px" width="50px" />
-</a>
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://www.linkedin.com/in/santiagocuevas147/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Correo eléctrónico" height="50px" width="50px" />
-</a>
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://santicue14-portfolio.vercel.app" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/465900/portfolio.svg" alt="Correo eléctrónico" height="50px" width="50px" />
-</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Santicue14&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true)
+
+</div>
+
+---
+
+## Enlaces
+
+<p align="left">
+  <a href="https://santicue-dev.vercel.app" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Abrir-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/santiagocuevas147/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Santicue14" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Santicue14-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="./Baldini_Cuevas_Santiago.md" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CV-Markdown-0D47A1?style=for-the-badge&logo=markdown&logoColor=white" alt="CV en Markdown" />
+  </a>
 </p>
 
+## Contacto
 
-<h3 align="center">Skills</h3>
-<p align="center">  
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
-<a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Astro.svg" alt="Astro" width="40" height="40"/> </a>  
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://filezilla-project.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/FileZilla.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/NPM.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<p align="left">
+  <a href="mailto:santiagobcuevas14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-santiagobcuevas14%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-### 📹 Últimos proyectos realizados
+---
 
-<a href='https://youtu.be/WA58VXU6PiA' target='_blank'>
-<img width='30%' src='https://img.youtube.com/vi/WA58VXU6PiA/mqdefault.jpg' alt='Gestor de mapas y reclamo' />
-</a>
-<a href='https://youtu.be/KKcGPptkJf4' target='_blank'>
-<img width='30%' src='https://img.youtube.com/vi/KKcGPptkJf4/mqdefault.jpg' alt='Catálogo de productos para cerrajería' />
-</a>
-<a href='https://youtu.be/YLvvQ0A4n-0' target='_blank'>
-<img width='30%' src='https://img.youtube.com/vi/YLvvQ0A4n-0/mqdefault.jpg' alt='Landing page' />
-</a>
+## Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" alt="Astro" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+</p>
+
+---
+
+### Formación y certificaciones
+
+**Universidad Nacional de José C. Paz** — Analista y Lic. en Gestión de TI (en curso, 2022–*est.*).
+
+*Digital Product Management* (Digital House) · *Análisis funcional* (UTN FRBA) · *UX/UI intro* (Movistar) · **Inglés B2** (Cambridge / EF SET)
