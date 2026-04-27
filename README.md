@@ -2,11 +2,29 @@
 
 # Santiago Baldini Cuevas
 
-**Analista IT · Desarrollador** · *Lic. en Sistemas (en curso)*
+**Analista IT · Desarrollador**
 
-Soy **emprendedor y desarrollador de software**: mi primer proyecto fue **Tecnoo SC** (soporte técnico a equipos) y hoy el foco está en productos y servicios digitales. En **Quick Dev Solutions** y **MetSys** llevo el **ciclo de vida del software** de punta a punta: alcance, arquitectura, desarrollo y despliegue (web, mobile, **WordPress**, cloud en **AWS**). En paralelo soy **Analista Funcional** en **Fintech** en [Loan Software](https://loansoftware.net/) — requerimientos, flujos, documentación de APIs y alineación con **dev** y **QA**.
+<br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Santicue14&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true)
+### Orígenes y emprendimiento
+
+Soy **emprendedor y desarrollador de software**. Mi camino comenzó con **Tecnoo SC**: soporte técnico a equipos y ganas de crecer en el mundo digital.
+
+<br>
+
+### Desarrollo y producto
+
+Hoy el foco está en **productos y servicios digitales**. Con **Quick Dev Solutions** y **MetSys** cubro el **ciclo de vida del software** de punta a punta: alcance, arquitectura, desarrollo y despliegue — web, mobile, **WordPress** y entornos en la nube con **AWS**.
+
+<br>
+
+### Fintech y análisis funcional
+
+En paralelo soy **Analista Funcional** en el mundo **Fintech** en [Loan Software](https://loansoftware.net/): traduzco requerimientos, documento flujos y **APIs**, y trabajo alineado con **dev** y **QA** — créditos, cobranzas y procesos concretos de negocio.
+
+<br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santicue14&langs_count=6&layout=compact&theme=dracula&hide=html,css,Shell)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -67,8 +85,20 @@ Soy **emprendedor y desarrollador de software**: mi primer proyecto fue **Tecnoo
 
 ---
 
-### Formación y certificaciones
+## Formación académica
 
-**Universidad Nacional de José C. Paz** — Analista y Lic. en Gestión de TI (en curso, 2022–*est.*).
+*Universidad Nacional de José C. Paz* · Inicio: agosto 2022
 
-*Digital Product Management* (Digital House) · *Análisis funcional* (UTN FRBA) · *UX/UI intro* (Movistar) · **Inglés B2** (Cambridge / EF SET)
+### Analista de Sistemas
+
+**Título previsto: julio 2026**
+
+### Licenciatura en Gestión de las Tecnologías de la Información
+
+**Título previsto: diciembre 2027**
+
+---
+
+## Cursos e idioma
+
+*Digital Product Management* (Digital House) · *Análisis funcional* (UTN FRBA) · *Introducción a UX/UI* (Fundación Tecnológica Movistar) · **Inglés B2** (Instituto Cambridge de Argentina / EF SET)
