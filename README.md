@@ -4,7 +4,7 @@
 
 Soy **emprendedor y desarrollador de software**. Mi camino comenzó con **Tecnoo SC**: soporte técnico a equipos y ganas de crecer en el mundo digital.
 
-Hoy el foco está en **productos y servicios digitales**. Con **Quick Dev Solutions** y **MetSys** cubro el **ciclo de vida del software** de punta a punta: alcance, arquitectura, desarrollo y despliegue — web, mobile, **WordPress** y entornos en la nube con **AWS**.
+Hoy pongo el foco en **Quick Dev Solutions**: ahí acompaño el **ciclo de vida del software** de punta a punta, desde el alcance y la arquitectura hasta el desarrollo y el despliegue. Según el proyecto, apoyo la operación en plataformas como **AWS**, **Hostinger** y otras de infraestructura en la nube.
 
 En paralelo soy **Analista Funcional** en el mundo **Fintech** en [Loan Software](https://loansoftware.net/): traduzco requerimientos, documento flujos y **APIs**, y trabajo alineado con **dev** y **QA** — créditos, cobranzas y procesos concretos de negocio.
 
