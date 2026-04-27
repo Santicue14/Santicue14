@@ -92,7 +92,7 @@ En paralelo soy **Analista Funcional** en el mundo **Fintech** en [Loan Software
 
 ---
 
-## Cursos e idioma
+## Cursos e idiomas
 
 <p align="left">
   <a href="https://frba.utn.edu.ar" target="_blank" rel="noreferrer" title="UTN Facultad Regional Buenos Aires">
