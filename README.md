@@ -1,32 +1,15 @@
-<div align="center">
-
 # Santiago Baldini Cuevas
 
 **Analista IT · Desarrollador**
 
-<br>
-
-### Orígenes y emprendimiento
-
 Soy **emprendedor y desarrollador de software**. Mi camino comenzó con **Tecnoo SC**: soporte técnico a equipos y ganas de crecer en el mundo digital.
-
-<br>
-
-### Desarrollo y producto
 
 Hoy el foco está en **productos y servicios digitales**. Con **Quick Dev Solutions** y **MetSys** cubro el **ciclo de vida del software** de punta a punta: alcance, arquitectura, desarrollo y despliegue — web, mobile, **WordPress** y entornos en la nube con **AWS**.
 
-<br>
-
-### Fintech y análisis funcional
-
 En paralelo soy **Analista Funcional** en el mundo **Fintech** en [Loan Software](https://loansoftware.net/): traduzco requerimientos, documento flujos y **APIs**, y trabajo alineado con **dev** y **QA** — créditos, cobranzas y procesos concretos de negocio.
-
-<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santicue14&langs_count=6&layout=compact&theme=dracula&hide=html,css,Shell)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 
 ---
 
