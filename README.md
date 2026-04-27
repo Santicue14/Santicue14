@@ -70,18 +70,45 @@ En paralelo soy **Analista Funcional** en el mundo **Fintech** en [Loan Software
 
 ## Formación académica
 
+<p align="left">
+  <a href="https://unpaz.edu.ar" target="_blank" rel="noreferrer" title="Universidad Nacional de José C. Paz">
+    <img src="https://unpaz.edu.ar/sites/default/files/Logo%20Unpaz.png" height="48" alt="Logo UNPAZ — Universidad Nacional de José C. Paz" />
+  </a>
+</p>
+
 *Universidad Nacional de José C. Paz* · Inicio: agosto 2022
 
 ### Analista de Sistemas
 
 **Título previsto: julio 2026**
 
+*El perfil de Analista de Sistemas interviene en proyectos de desarrollo de la tecnología de la información, aplicando métodos y técnicas propias del campo de la administración.*
+
 ### Licenciatura en Gestión de las Tecnologías de la Información
 
 **Título previsto: diciembre 2027**
+
+*La formación de licenciatura combina saberes tecnológicos vinculados a la programación, la robótica, las redes y la inteligencia artificial, con el saber propio de quienes administran organizaciones —empresas, organismos del Estado, ONG, cooperativas, emprendimientos, entre otras—, orientada a la **gestión integral de los sistemas de información**.*
 
 ---
 
 ## Cursos e idioma
 
-*Digital Product Management* (Digital House) · *Análisis funcional* (UTN FRBA) · *Introducción a UX/UI* (Fundación Tecnológica Movistar) · **Inglés B2** (Instituto Cambridge de Argentina / EF SET)
+<p align="left">
+  <a href="https://frba.utn.edu.ar" target="_blank" rel="noreferrer" title="UTN Facultad Regional Buenos Aires">
+    <img src="https://frba.utn.edu.ar/wp-content/uploads/2016/08/logo-utn.ba-horizontal-e1471367724904.jpg" height="40" alt="Logo UTN.BA" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.digitalhouse.com" target="_blank" rel="noreferrer" title="Digital House">
+    <img src="https://storage.ghost.io/c/40/30/4030b8ad-7436-40ea-94a7-392f299ba4fc/content/images/2022/03/DigitalHouse_Logo_White--1-.png" height="40" alt="Logo Digital House" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.fundaciontelefonica.com.ar" target="_blank" rel="noreferrer" title="Fundación Telefónica Movistar">
+    <img src="https://www.fundaciontelefonica.com.ar/wp-content/uploads/2024/04/logo-ft_LATAM.png" height="40" alt="Logo Fundación Telefónica" />
+  </a>
+</p>
+
+*Digital Product Management* (Digital House) 
+· *Análisis funcional* (UTN FRBA) 
+· *Introducción a UX/UI* (Fundación Tecnológica Movistar) 
+· **Inglés B2** (Instituto Cambridge de Argentina)
